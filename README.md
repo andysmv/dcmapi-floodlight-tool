@@ -41,6 +41,9 @@ tool (see the corresponding step of Initial Setup section below).
 *   Input the DCM Profile ID in the setup tab (i.e. at cell C5) then select
     _Data_ from the sheet menu and select _Named Ranges...._ to set the title
     _DCMProfileID_ and value _Setup!C5_
+*   Input the Floodlight Config ID in the setup tab (i.e. at cell C6) then select
+    _Data_ from the sheet menu and select _Named Ranges...._ to set the title
+    _DCMFLoodlightConfigID_ and value _Setup!C6_
 
 ## USAGE
 
