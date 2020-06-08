@@ -4,10 +4,9 @@ Google Sheets based tool to perform bulk tasks to DCM accounts using DCM API.
 
 ## OVERVIEW
 
-This AppScript-based tool lets you use a Google Sheets to perform bulk tasks including - Bulk Create Campaigns - 
-Bulk Create Placements - Bulk Assign Creatives. 
-Additional helper tasks for these bulk creations include - Get Placements List - Get Creatives List
-
+This AppScript-based tool lets you use a Google Sheets to perform bulk tasks including - Bulk Create Advertisers - 
+Bulk Create Activity groups - Bulk Create Floodlight activities. 
+Additional helper tasks for these bulk creations include - Get Advertisers - Get Activity groups.
 
 It uses DCM APIs to pull and push data to DCM.
 
